@@ -60,6 +60,13 @@ Manual monitoring of more than 100 water pumps makes it difficult to detect earl
 ## Outcome
 This project demonstrates the ability to convert an operational problem into structured business requirements for a data-driven monitoring solution.
 
+## Assets
+![Cover](assets/Cover.png)
+![Objectives and Scopes](assets/objectives-and-scope.png)
+![Functional Requirements](assets/functional-requirements.png)
+![Non-Functional Requirements](assets/nfrs.png)
+![Business Impact Costs](assets/business-impact.png)
+
 ## Author
 Rampravesh Vishwakarma  
 Business Analyst
